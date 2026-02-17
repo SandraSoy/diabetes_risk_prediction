@@ -71,10 +71,10 @@ Tree-based ensemble models significantly outperformed linear and distance-based 
 ## 📊 Model Evaluation
 
 ### ROC Curve Comparison
-![ROC Curve](assets/roc_curve.png)
+![ROC Curve](assets/roc_auc.png)
 
 ### Feature Importance
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](assets/feature_importance_df.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](assets/confusion_mat.png)

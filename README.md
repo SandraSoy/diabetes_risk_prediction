@@ -68,6 +68,17 @@ Tree-based ensemble models significantly outperformed linear and distance-based 
 - Optimized LightGBM delivered best test performance
 - Strong precision-recall balance
 
+## 📊 Model Evaluation
+
+### ROC Curve Comparison
+![ROC Curve](assets/roc_curve.png)
+
+### Feature Importance
+![Feature Importance](assets/feature_importance.png)
+
+### Confusion Matrix
+![Confusion Matrix](assets/confusion_mat.png)
+
 ---
 
 ## 🔍 Key Insights
